@@ -1,2 +1,3 @@
 # demo-9f3fe0
-Auto generated demo site for とみざわ犬猫病院
+
+AIによって自動生成された とみざわ犬猫病院 様向けのデモサイトです。
